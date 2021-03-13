@@ -1,5 +1,5 @@
 # Instructions
-To build your environment you just need to run 'docker-compose up --build' and this will build the following containers for you:
+To build your environment you just need to run `docker-compose up --build` and this will build the following containers for you:
 - php
 - db
 - webserver
@@ -14,4 +14,4 @@ From here on, you can follow the Laravel [documentation](https://laravel.com/doc
 
 # Database 
 
-If you'd like to connect to your db container, please create a duplicate of the .env.example (or just rename it - please do not commit this). This file needs to be called '.env'. 
+If you'd like to connect to your db container, please create a duplicate of the .env.example (or just rename it - please do not commit this). This file needs to be called `.env`'. 
