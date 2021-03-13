@@ -9,5 +9,6 @@
 docker-compose.override.yml
 Homestead.json
 Homestead.yaml
+.idea
 npm-debug.log
 yarn-error.log
