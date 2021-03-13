@@ -14,4 +14,4 @@ From here on, you can follow the Laravel [documentation](https://laravel.com/doc
 
 # Database 
 
-If you'd like to connect to your db container, please create a duplicate of the .env.example (or just rename it - please do not commit this). This file needs to be called `.env`'. 
+If you'd like to connect to your db container, please create a duplicate of the .env.example (or just rename it - please do not commit this). This file needs to be called `.env`. 
