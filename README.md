@@ -11,3 +11,7 @@ Please note that you shouldn't be including your db credentials in your docker-c
 Once built, you should be able to access this at http://localhost.
 
 From here on, you can follow the Laravel [documentation](https://laravel.com/docs/8.x/installation).
+
+# Database 
+
+If you'd like to connect to your db container, please create a duplicate of the .env.example (or just rename it - please do not commit this). This file needs to be called '.env'. 
